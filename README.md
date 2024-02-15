@@ -3,10 +3,10 @@
 I'm currently a first-year student at the University of Northampton, pursuing a Bachelor's degree in Artificial Intelligence and Data Science. My academic and project work reflects a strong commitment to data-driven decision making, innovative solutions, and the practical application of AI and data science methodologies to solve complex business challenges. I'm deeply passionate about harnessing the power of technology to enhance operational efficiency and am actively engaged in research projects to explore the applications of AI.
 
 ## 🛠 Skills
-- **Python**: Advanced (Data Analysis, NumPy, Matplotlib, financial modeling)
+- **Python**: Advanced (Data Analysis, NumPy, Pandas, financial modeling)
 - **Machine Learning**: Basic understanding and application
 - **C++**: Intermediate (Software development principles)
-- **Web Development**: Basic CSS, Advanced HTML
+- **Web Development**: Advanced CSS, Advanced HTML, Basic Javascript  
 - **Productivity Tools**: Proficient in Notion & Anytype
 - **Quantitative Research**: Statistical Analysis, probabilistic modeling
 - **Data Visualization**: Basic (Matplotlib, Pandas, Seaborn)
@@ -24,7 +24,7 @@ I'm currently a first-year student at the University of Northampton, pursuing a 
 - **Comprehensive Zoo Software Suite (Course Project)**: Co-leading the development, focusing on software engineering, data management, and ethical standards.
 
 ## 🌱 Currently Learning
-- Python Libraries(Matplotlib, Seaborn), Javascript
+- Python Libraries(Matplotlib, Seaborn)
 - Advanced concepts and practical applications in AI and Data Science.
 - Financial investment strategies, focusing on cryptocurrency.
 
