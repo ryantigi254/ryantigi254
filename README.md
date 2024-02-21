@@ -9,7 +9,7 @@ I'm currently a first-year student at the University of Northampton, pursuing a 
 - **Web Development**: Advanced CSS, Advanced HTML, Basic Javascript  
 - **Productivity Tools**: Proficient in Notion & Anytype
 - **Quantitative Research**: Statistical Analysis, probabilistic modeling
-- **Data Visualization**: Basic (Matplotlib, Pandas, Seaborn)
+- **Data Visualization**: Basic (Matplotlib, Seaborn)
 - **Database Management**: Intermediate (MySQL)
 - **Pine Script v5**: Proficient (Indicator and Strategy Development)
 - **Spreadsheet Management**: Advanced (Excel & Google Sheets)
