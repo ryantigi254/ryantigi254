@@ -4,12 +4,15 @@
 # 💫 About Me:
 Introduction:<br><br>Hello 👋, I'm Ryan Gichuru, a first-year student at the University of Northampton, immersed in the fascinating world of Artificial Intelligence and Data Science. My journey is one where academia meets practicality, as I navigate through data-driven landscapes to uncover technological solutions that can reshape industries.<br><br>About Me:<br><br>In my academic pursuits and project engagements, I've honed my focus on leveraging AI to not just address but anticipate complex business and societal challenges. I am fervently exploring the applications and outcomes of AI within the realm of education, striving to enrich learning experiences and elevate academic effectiveness through technological innovation.
 
-<br><br>What I'm Working On:<br><br>I'm currently channeling my research efforts towards understanding and enhancing AI's role in education. My goal is to unravel how AI applications can lead to significant educational outcomes and drive the evolution of pedagogical methods.<br><br>Looking to Collaborate On:<br><br>I am on the lookout for opportunities to collaborate on machine learning projects. I bring a fresh perspective and a robust analytical toolkit to the table, eager to contribute to and learn from projects that push the boundaries of what machine learning can achieve.<br><br>Seeking Help With:<br><br>I am navigating the early stages of my career and would appreciate guidance on career preparation. Insights, advice, or mentorship from experienced professionals in AI, data science, or related fields would be invaluable as I forge my path forward.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryantigi254&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br><br>What I'm Working On:<br><br>I'm currently channeling my research efforts towards understanding and enhancing AI's role in education. My goal is to unravel how AI applications can lead to significant educational outcomes and drive the evolution of pedagogical methods.<br><br>Looking to Collaborate On:<br><br>I am on the lookout for opportunities to collaborate on machine learning projects. I bring a fresh perspective and a robust analytical toolkit to the table, eager to contribute to and learn from projects that push the boundaries of what machine learning can achieve.<br><br>Seeking Help With:<br><br>I am navigating the early stages of my career and would appreciate guidance on career preparation. Insights, advice, or mentorship from experienced professionals in AI, data science, or related fields would be invaluable as I forge my path forward.
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryantigi254&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
