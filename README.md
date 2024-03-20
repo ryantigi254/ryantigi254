@@ -11,12 +11,12 @@ Introduction:<br><br>Hello 👋, I'm Ryan Gichuru, a first-year student at the U
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryantigi254&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>What I'm Working On:<br><br>I'm currently channeling my research efforts towards understanding and enhancing AI's role in education. My goal is to unravel how AI applications can lead to significant educational outcomes and drive the evolution of pedagogical methods.<br><br>Looking to Collaborate On:<br><br>I am on the lookout for opportunities to collaborate on machine learning projects. I bring a fresh perspective and a robust analytical toolkit to the table, eager to contribute to and learn from projects that push the boundaries of what machine learning can achieve.<br><br>Seeking Help With:<br><br>I am navigating the early stages of my career and would appreciate guidance on career preparation. Insights, advice, or mentorship from experienced professionals in AI, data science, or related fields would be invaluable as I forge my path forward.
+Looking to Collaborate On:<br><br>I am on the lookout for opportunities to collaborate on machine learning projects. I bring a fresh perspective and a robust analytical toolkit to the table, eager to contribute to and learn from projects that push the boundaries of what machine learning can achieve.<br><br>Seeking Help With:<br><br>I am navigating the early stages of my career and would appreciate guidance on career preparation. Insights, advice, or mentorship from experienced professionals in AI, data science, or related fields would be invaluable as I forge my path forward.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryantigi254&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<br><br>Current Learning Endeavors:<br><br>My learning journey is diverse and continually expanding. I am deepening my knowledge in:<br><br>Advanced Web Development (HTML, CSS, JavaScript)<br>Sophisticated data analysis (Pandas, NumPy)<br>Data visualization techniques (Matplotlib, Seaborn)<br>Fundamental machine learning concepts (Scikit-learn, TensorFlow, PyTorch)<br>Deep learning frameworks (Keras, Mediapipe)<br>Time Series Analysis with a focus on Stock Forecasting and Investing
+My learning journey is diverse and continually expanding. I am deepening my knowledge in:<br><br>Advanced Web Development (HTML, CSS, JavaScript)<br>Sophisticated data analysis (Pandas, NumPy)<br>Data visualization techniques (Matplotlib, Seaborn)<br>Fundamental machine learning concepts (Scikit-learn, TensorFlow, PyTorch)<br>Deep learning frameworks (Keras, Mediapipe)<br>Time Series Analysis with a focus on Stock Forecasting and Investing
 
 
 ## 🌐 Socials:
