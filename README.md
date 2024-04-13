@@ -6,7 +6,7 @@
 Hello 👋, I'm Ryan Gichuru, an enthusiastic AI and Data Science student at the University of Northampton, where I also lead the AI Society. My academic and extracurricular activities are focused on leveraging AI to solve real-world problems, particularly in the realms of education and finance.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryantigi254&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryantigi254&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
