@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Ryan Gichuru!
 
 I'm an AI and Data Science student at the University of Northampton, where I lead the AI Society, and I'm also an AI Engineer at an early-stage startup. 
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -29,20 +30,20 @@ I'm an AI and Data Science student at the University of Northampton, where I lea
 #### JavaScript Tools & Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-
+<br>
 
 My work focuses on:
-
 - 🤖 Developing AI solutions for real-world problems
 - 🚀 Building AI-powered applications and systems at a startup
 - 📊 Applying data science to tackle various industry challenges
 - 🎓 Leading workshops and events as [UON AI Society](https://linktr.ee/UON_AISOCIETY) President
+<br>
 
 Currently working on:
 - 🏆 [AI Mathematical Olympiad (Progress Prize 2)](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/overview) - Developing agentic systems to solve complex mathematical reasoning problems
 - 🧠 [ARC Prize 2024](https://www.kaggle.com/competitions/arc-prize-2024) - Building AI frameworks for abstract reasoning and generalization
 - 🤝 Exploring [Agent Zero framework](https://github.com/frdel/agent-zero) and other agentic systems for autonomous AI systems
-
+<br>
 
 ## 👥 Let's Connect & Build Together
 
@@ -53,4 +54,3 @@ I'm excited to collaborate on:
 - Research projects I have done so far are in [education, finance, and gaming]
 
 💡 Open to: Mentorship, Project Collaboration, Research Opportunities
-
